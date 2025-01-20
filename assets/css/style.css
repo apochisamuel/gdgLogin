@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/assets/img/doodle.svg");
+    background-image: url("../img/doodle.svg");
     display: flex;
     justify-content: center;
     align-items: center;
